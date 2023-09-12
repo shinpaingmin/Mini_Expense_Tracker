@@ -1,0 +1,26 @@
+Date,Check #,Description,Amount
+1/4/2021,7777,Transaction 1,$150.43 
+1/5/2021,,Transaction 2,$700.25 
+1/6/2021,,Transaction 3,"-$1,303.97"
+1/7/2021,,Transaction 4,$46.78 
+1/8/2021,,Transaction 5,$816.87 
+1/11/2021,1934,Transaction 6,"-$1,002.53"
+1/12/2021,7307,Transaction 7,$532.22 
+1/13/2021,1352,Transaction 8,"-$704.59"
+1/14/2021,,Transaction 9,$98.04 
+1/15/2021,,Transaction 10,"-$204.56"
+1/25/2021,,Transaction 11,"$1,056.27 "
+1/26/2021,,Transaction 12,$550.10 
+1/27/2021,,Transaction 13,"-$825.77"
+1/28/2021,4250,Transaction 14,$212.68 
+1/29/2021,,Transaction 15,$195.68 
+2/2/2021,9915,Transaction 16,"-$463.75"
+2/3/2021,,Transaction 17,$78.02 
+2/4/2021,,Transaction 18,$268.81 
+2/5/2021,,Transaction 19,"$1,360.55 "
+2/8/2021,,Transaction 20,"-$594.46"
+2/9/2021,9125,Transaction 21,$467.39 
+2/10/2021,,Transaction 22,$39.49 
+2/11/2021,7929,Transaction 23,"-$81.87"
+2/12/2021,,Transaction 24,$255.64 
+2/12/2021,,Transaction 25,$13.51 

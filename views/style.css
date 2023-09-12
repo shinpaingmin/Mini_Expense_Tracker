@@ -1,0 +1,24 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table tr th, table tr td {
+    padding: 10px;
+    border: 1px #eee solid;
+}
+
+tfoot tr th, tfoot tr td {
+    font-size: 20px;
+}
+
+tfoot tr th {
+    text-align: right;
+}
