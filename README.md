@@ -1,6 +1,6 @@
 # Fully-functional Procedural Expense-Tracker Application
 
-https://github.com/shinpaingmin/Mini_Expense_Tracker/assets/103930442/8f1a09fc-3f39-42c8-be6a-18f96dbd8467
+![screencapture-localhost-Expense-Tracker-public-2023-09-12-20_25_57](https://github.com/shinpaingmin/Mini_Expense_Tracker/assets/103930442/b2dd1b08-f6f8-4063-a7b6-92fbbaaf82f2)
 
 ## This project was written in pure procedural PHP
 ## This project was structured systematically for enterprise level.
