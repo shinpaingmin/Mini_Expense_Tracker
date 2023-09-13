@@ -1,4 +1,4 @@
-# Fully-functional Procedural Expense-Tracker Application
+# Fully-functional Procedural Expense-Tracker Dynamic Website
 
 ![screencapture-localhost-Expense-Tracker-public-2023-09-12-20_25_57](https://github.com/shinpaingmin/Mini_Expense_Tracker/assets/103930442/b2dd1b08-f6f8-4063-a7b6-92fbbaaf82f2)
 
